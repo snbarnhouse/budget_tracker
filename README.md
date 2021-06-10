@@ -1,5 +1,9 @@
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
 
+GitHub Repository: https://github.com/snbarnhouse/budget_tracker 
+
+Deployed Link: https://vast-caverns-08632.herokuapp.com/ 
+
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
